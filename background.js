@@ -1,5 +1,6 @@
 /*
-Modified from https://github.com/google/extra-keyboards-for-chrome-os/blob/master/lushootseed/background.js by Galobtter
+https://github.com/google/extra-keyboards-for-chrome-os/blob/master/lushootseed/background.js modified by Galobtter
+
 Copyright 2018 The Extra Keyboards for Chrome OS Authors.
 
 Licensed under the Apach License, Version 2.0 (the "License");
