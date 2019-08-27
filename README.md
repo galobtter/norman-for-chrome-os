@@ -28,3 +28,5 @@ Click the icon for a pop-up which will show all available layouts and which
 is currently active. You may change layouts this way as well.
 
 Layout by David Norman (https://normanlayout.info/)
+
+(Modified from https://github.com/google/extra-keyboards-for-chrome-os/blob/master/lushootseed/README.md)
