@@ -28,7 +28,7 @@ var nor = {
   "KeyU": [ "u", "U" ],
   "KeyI": [ "r", "R" ],
   "KeyO": [ "l", "L"],
-  "KeyP": [ ":", ";" ],
+  "KeyP": [ ";", ":" ],
   "KeyA": [ "a", "A" ],
   "KeyS": [ "s", "S" ],
   "KeyD": [ "e", "E" ],
